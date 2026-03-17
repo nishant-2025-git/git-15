@@ -8,6 +8,6 @@ change the roles of user
 chaged the data base of the user
 connection closed for all user
 
-data base in my sql change in harsh datashite
+data base in my sql and AL and ML change in harsh datashite
 All the files are update need check again
 
