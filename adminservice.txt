@@ -1,0 +1,3 @@
+add and remove users
+change the roles of user
+chaged the data base of the user
