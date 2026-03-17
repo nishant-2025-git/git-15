@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hello evryone 
 what going on
 what is ur update on project ?
+=======
+add and remove users
+change the roles of user
+chaged the data base of the user
+connection closed for all user
+>>>>>>> feature2
